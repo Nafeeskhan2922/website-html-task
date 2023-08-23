@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.page-logo {
+    font-size: 20px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem5 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem6 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.home-section-bg-container {
+    height: 100vh;
+    background-size: cover;
+    background-color: white;
+}
+
+.home-section-heading {
+    color: #000000;
+    font-family: "Roboto";
+    height: 300px;
+    width: 400px;
+    font-weight: 700;
+    font-size: 91px;
+}
+
+.home-section-caption {
+    color: #000000;
+    font-family: "Roboto";
+    height: 63px;
+    width: 573px;
+    font-weight: 400;
+    font-size: 21px;
+}
+
+.home-section-bg-container {
+    height: 100vh;
+    background-size: cover;
+    background-color: white;
+}
+
+.home-section-heading {
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 70px;
+}
+
+.home-section-caption {
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 21px;
+}
+
+.email-form {
+    border: 30px;
+    border-color: black;
+}
+
+.email-submit-button {
+    background-color: black;
+    color: white;
+}
+
+.cart {
+    color: black;
+    background-color: #ffffff;
+
+}
+
+.card-section {
+    background-color: #f9fbfe;
+}
+
+.card-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+
+.card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.card-image {
+    width: 87px;
+    height: 90px;
+}
+
+.card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.sales-sub-heading {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: black;
+}
+
+.font-main-heading {
+    font-family: "Roboto";
+    font-size: 40px;
+    color: black;
+}
+
+.sub-heading {
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.main-heaiding {
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.paragraph {
+    font-size: 20px;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 68px;
+    font-weight: 700;
+}
+
+.card-images {
+    height: 50px;
+}
+
+.card-2-heading {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.line {
+    border-color: black;
+}
+
+.card-3 {
+    background-image: linear-gradient(#534747, #564747);
+    border-radius: 16px;
+}
+
+.card-3-heading {
+    color: white;
+    font-size: 37px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.card-3-paragraph {
+    color: white;
+    font-size: 17px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.card-3-button {
+    color: white;
+    background-color: black;
+    width: 100px;
+    height: 36px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.card-4 {
+    background-color: #E6EEF6;
+}
+
+.card-4-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    padding: 10px;
+    font-size: 55px;
+}
+
+.card-4-paragraph {
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.card-4-button {
+    color: white;
+    background-color: black;
+    width: 136px;
+    height: 36px;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.bottom-section {
+    background-color: #1C1919;
+    color: white;
+}
+
+.bottom-section-icon-container {
+    background-color: white;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: black;
+    font-size: 35px;
+}
